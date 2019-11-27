@@ -19,7 +19,6 @@
    1-classmates/dingshanshan.md
    1-classmates/gaozhijun.md
    1-classmates/qintianyu.md
-   1-classmates/qinxun.md
    1-classmates/suruiran.md
    1-classmates/wangtianshu.md
    1-classmates/weiyuhshuang.md
