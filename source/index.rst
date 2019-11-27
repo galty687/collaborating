@@ -13,6 +13,7 @@ Welcome to 2019 Technical Writing Course's documentation!
    1-classmates/gaozhijun.md
    1-classmates/yangzhengyu.md
    1-classmates/wuxuyao.md
+   1-classmates/qinxun.md
 
 
 
