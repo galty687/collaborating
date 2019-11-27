@@ -3,7 +3,7 @@
 ## Gender
 Male
 
-## StuID
+## StudentID
 1901210547
 
 ## Hobby
