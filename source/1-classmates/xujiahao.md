@@ -1,3 +1,10 @@
 # 许佳豪
 
-1901210xxx
+## Gender
+Male
+
+## StuID
+1901210547
+
+## Hobby
+Study
