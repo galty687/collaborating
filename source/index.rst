@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 2019 Technical Writing Course's documentation!
+2019年技术写作课程网址
 =========================================================
 
 .. toctree::
@@ -14,6 +14,17 @@ Welcome to 2019 Technical Writing Course's documentation!
    1-classmates/yangzhengyu.md
    1-classmates/wuxuyao.md
    1-classmates/qinxun.md
+   1-classmates/baoyiran.md
+   1-classmates/caowendi.md
+   1-classmates/dingshanshan.md
+   1-classmates/gaozhijun.md
+   1-classmates/qintianyu.md
+   1-classmates/suruiran.md
+   1-classmates/wangtianshu.md
+   1-classmates/weiyuhshuang.md
+   1-classmates/wuxuyao.md
+   1-classmates/yangzhengyu.md
+   1-classmates/zhoujialin.md
 
 
 
