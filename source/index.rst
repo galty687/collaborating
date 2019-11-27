@@ -7,7 +7,7 @@
 =========================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 同学花名册:
 
    1-classmates/gaozhijun.md
