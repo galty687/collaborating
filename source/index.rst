@@ -25,6 +25,7 @@
    1-classmates/wuxuyao.md
    1-classmates/yangzhengyu.md
    1-classmates/zhoujialin.md
+   1-classmates/gaoyaoxin.md
 
 
 
